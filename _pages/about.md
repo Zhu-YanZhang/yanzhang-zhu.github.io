@@ -8,12 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a a dual-degree senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn/) and [Duke University](https://duke.edu/). I major in material science with physics track. My research interest lies in quantum computing and quantum information. I have no publications yet, but I have done some solid research work. 
+I am a a dual-degree senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn/) and [Duke University](https://duke.edu/). I major in material science with physics track. My research interest lies in quantum computing and quantum information. I have no publications yet, but I have done some solid research works. 
 
-Works
+Previous Works
 ======
 Phase Diagram of Driven-Dissipative Bose-Hubbard Model
 ------
+
+The system we study is the driven-dissipative Bose-Hubbard model with two-photon drive, one-photon loss, and two-photon loss. The effective Lindblad master equation is:
+$$
+\begin{align}
+H & = \omega a^\dag a + U a^\dag a^\dag a a + \lambda({a^\dag}^2+a^2) \\
+\dot{\rho} & = \mathcal{L} [\rho] = -i[H,\rho] + \kappa_1 \mathcal{D}[a] + \kappa_2 \mathcal{D}[a^2] \\
+\mathcal{D}[A] & = 2A\rho A^\dag - A^\dag A \rho - \rho A^\dag A
+\end{align}
+$$
+where $\omega$ is the detuning, $U$ is the Kerr non-linearity, $\lambda$ is the two photon drive, $\kappa_{1,2}$ are the one-photon and two-photon loss. 
 
 Effects of surface roughness and molecular shapes on gas transport through size-sieving membranes
 ------
