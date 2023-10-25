@@ -16,7 +16,9 @@ Previous Works
 Phase Diagram of Driven-Dissipative Bose-Hubbard Model
 ------
 
-The system we study is the driven-dissipative Bose-Hubbard model with two-photon drive, one-photon loss, and two-photon loss. The effective Lindblad master equation is: $$H = \omega a^+ a + U a^+ a^+ a a + \lambda({a^+}^2+a^2)$$ 
+The system we study is the driven-dissipative Bose-Hubbard model with two-photon drive, one-photon loss, and two-photon loss. The effective Lindblad master equation is: 
+
+$$H = \omega a^+ a + U a^+ a^+ a a + \lambda({a^+}^2+a^2)$$ 
 
 $$\dot{\rho} = \mathcal{L} [\rho] = -i[H,\rho] + \kappa_1 \mathcal{D}[a] + \kappa_2 \mathcal{D}[a^2]$$ 
 
@@ -42,6 +44,7 @@ Effects of surface roughness and molecular shapes on gas transport through size-
 We study purely repulsive Lennard-Jones particles flowing through pores of membranes piled up with spheres under a pressure gradient, which is maintained by a chemical potential gradient. The gas particles fly from the upstream chamber 1 at chemical potential $\mu_1$ to the downstream chamber 2 at a lower chemical potential $\mu_2$, implemented by the dual control volume grand canonical molecular dynamics (DCV-GCMD) method.
 
 Real membranes are formed by atoms or molecules with rough surfaces that are different from ideal smooth surfaces. We approach the problem by taking into account the back reflection fraction f (ratio of particles bouncing back) caused by the bumps of rough pores. We apply multiple linear regression and found that:
+
 $$f(\sigma_m,\sigma,n,L) = f_0[1-\exp(-k\frac{L}{\sigma_m})]\exp(-C_1\frac{\sigma}{\sigma_m}-C_2\frac{\sigma^2}{\sigma_m^2}-C_0 n)$$
 
 where $f_0$, $C_0$, $C_1$, $C_2$, $k$ are fitting parameters, $\sigma$ is the size of gas particles, $\sigma_m$ is the size of membrane particles, $n$ is the size of pores (number of membrane particles removed along pore diameter), and $L$ is the thickness of the membrane.
