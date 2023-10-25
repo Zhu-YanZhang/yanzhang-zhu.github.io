@@ -8,28 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-I am a a dual-degree senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn/) and [Duke University](https://duke.edu/). I major in material science with physics track. My research interest lies in quantum computing and quantum information. I have no publications yet, but I have done some solid research works. 
+I am a a dual-degree senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn/) and [Duke University](https://duke.edu/). I major in material science with physics track. My research interest lies in **quantum computing** and **quantum information**. I have no publications yet, but I have done some solid research works. 
 
 Previous Works
 ======
+
 Phase Diagram of Driven-Dissipative Bose-Hubbard Model
 ------
 
-The system we study is the driven-dissipative Bose-Hubbard model with two-photon drive, one-photon loss, and two-photon loss. The effective Lindblad master equation is:
-$$
-\begin{align}
-H & = \omega a^\dag a + U a^\dag a^\dag a a + \lambda({a^\dag}^2+a^2) \\
-\dot{\rho} & = \mathcal{L} [\rho] = -i[H,\rho] + \kappa_1 \mathcal{D}[a] + \kappa_2 \mathcal{D}[a^2] \\
-\mathcal{D}[A] & = 2A\rho A^\dag - A^\dag A \rho - \rho A^\dag A
-\end{align}
-$$
+The system we study is the driven-dissipative Bose-Hubbard model with two-photon drive, one-photon loss, and two-photon loss. The effective Lindblad master equation is: $$H = \omega a^+ a + U a^+ a^+ a a + \lambda({a^+}^2+a^2)$$ 
+$$\dot{\rho} = \mathcal{L} [\rho] = -i[H,\rho] + \kappa_1 \mathcal{D}[a] + \kappa_2 \mathcal{D}[a^2]$$ 
+$$\mathcal{D}[A] = 2A\rho A^+ - A^+ A \rho - \rho A^+ A$$
+
 where $\omega$ is the detuning, $U$ is the Kerr non-linearity, $\lambda$ is the two photon drive, $\kappa_{1,2}$ are the one-photon and two-photon loss. 
+
+By mean-field analysis and stability analysis, we find two steady state solutions $\alpha_{0,1}$ of the model. The figure plots the region where $|\alpha_0|^2$ is stable (red), $|\alpha_1|^2$ is stable (yellow), and both of them are stable (orange).
+
+Some interesting things we find about this model:
+* The steady states we get are: $$|\alpha_0|^2 = 0$$ $$|\alpha_1|^2= \frac{-\kappa_1\kappa_2-\omega U + \sqrt{4\lambda^2(\kappa_2^2 + U^2)-(\kappa_1U-\kappa_2\omega)^2}}{2\kappa_2^2 + 2U^2}$$
+* If $\kappa_2 = 0$, the boundary of red region on the negative side will become horizontal.
+* If $\kappa_1 = 0$, two tips of the yellow region will form a sharp angle and contact.
+* If we fix $\lambda$ and control $\omega$, we will see a second-order phase transition on the positive side, and a first-order phase transition on the negative side.
 
 Effects of surface roughness and molecular shapes on gas transport through size-sieving membranes
 ------
+
 We study purely repulsive Lennard-Jones particles flowing through pores of membranes piled up with spheres under a pressure gradient, which is maintained by a chemical potential gradient. The gas particles fly from the upstream chamber 1 at chemical potential $\mu_1$ to the downstream chamber 2 at a lower chemical potential $\mu_2$, implemented by the dual control volume grand canonical molecular dynamics (DCV-GCMD) method.
 
+Real membranes are formed by atoms or molecules with rough surfaces that are different from ideal smooth surfaces. We approach the problem by taking into account the back reflection fraction f (ratio of particles bouncing back) caused by the bumps of rough pores. We apply multiple linear regression and found that:
+$$f(\sigma_m,\sigma,n,L) = f_0[1-\exp(-k\frac{L}{\sigma_m})]\exp(-C_1\frac{\sigma}{\sigma_m}-C_2\frac{\sigma^2}{\sigma_m^2}-C_0 n)$$
 
+where $f_0$, $C_0$, $C_1$, $C_2$, $k$ are fitting parameters, $\sigma$ is the size of gas particles, $\sigma_m$ is the size of membrane particles, $n$ is the size of pores (number of membrane particles removed along pore diameter), and $L$ is the thickness of the membrane.
+
+With the back reflection fraction $f$, we can calculate the diffusivity considering the roughness of membrane $D = D_s (1 − f)$, where $D_s$ means the diffusivity of particles crossing a perfectly smooth membrane. According to hindered diffusion law: $D_s = D_0 (1 − \sigma/d)^2$, where $d$ is pore diamter and the font factor $D_0$ can be estimated by the diffusivity of a point particle entering the circular opening. Then we can get: $D(\sigma/d, n, L) = D_0(1 − \sigma/d)^2 (1 − f)$.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
