@@ -28,6 +28,12 @@ where $\omega$ is the detuning, $U$ is the Kerr non-linearity, $\lambda$ is the 
 
 By mean-field analysis and stability analysis, we find two steady state solutions $\alpha_{0,1}$ of the model. The figure plots the region where $\|\alpha_0\|^2$ is stable (red), $\|\alpha_1\|^2$ is stable (yellow), and both of them are stable (orange).
 
+<div align="center">
+<img src="/images/Phase.png" width="300px" />
+
+Figure 1. Phase diagram of model
+</div>
+
 Some interesting things we find about this model:
 * The steady states we get are:
   
@@ -46,7 +52,7 @@ We study purely repulsive Lennard-Jones particles flowing through pores of membr
 <div align="center">
 <img src="/images/model_1.png" width="600px" />
 
-Figure 1. System set up
+Figure 2. System set up
 </div>
 
 Real membranes are formed by atoms or molecules with rough surfaces that are different from ideal smooth surfaces. We approach the problem by taking into account the back reflection fraction f (ratio of particles bouncing back) caused by the bumps of rough pores. We apply multiple linear regression and found that:
@@ -58,7 +64,7 @@ where $f_0$, $C_0$, $C_1$, $C_2$, $k$ are fitting parameters, $\sigma$ is the si
 <div align="center">
 <img src="/images/back_fraction_1.png" width="500px" />
 
-Figure 2. Back fraction function
+Figure 3. Back fraction function
 </div>
 
 With the back reflection fraction $f$, we can calculate the diffusivity considering the roughness of membrane $D = D_s (1 − f)$, where $D_s$ means the diffusivity of particles crossing a perfectly smooth membrane. According to hindered diffusion law: $D_s = D_0 (1 − \sigma/d)^2$, where $d$ is pore diamter and the font factor $D_0$ can be estimated by the diffusivity of a point particle entering the circular opening. Then we can get: $D(\sigma/d, n, L) = D_0(1 − \sigma/d)^2 (1 − f)$.
@@ -66,7 +72,7 @@ With the back reflection fraction $f$, we can calculate the diffusivity consider
 <div align="center">
 <img src="/images/diffusivity.png" width="500px" />
 
-Figure 3. Diffusivity function with back fraction correction
+Figure 4. Diffusivity function with back fraction correction
 </div>
 
 Instruction
