@@ -12,13 +12,13 @@ Education
 ======
 
 
-**Duke Kunshan University/Duke University** Dual Degree Undergraduate
+<div>**Duke Kunshan University/Duke University** Dual Degree Undergraduate</div>
 <div style="position: absolute; right: 100"><em>Aug 2020 - Present</em></div> 
 
-B.E. in Material Science (by DKU)
+<div>B.E. in Material Science (by DKU)</div>
 <div style="position: absolute; right: 100"><em>Kunshan, China</em></div> 
 
-B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)
+<div>B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)</div>
 <div style="position: absolute; right: 100"><em>Durham, USA</em></div>
 
 Research experience
