@@ -23,7 +23,8 @@ Education
 
 Research experience
 ======
-* Quantum Science Group, Duke Kunshan University
+* **Quantum Science Group, Duke Kunshan University**
+
   *Advisor: Dr. Myung-Joong Hwang*
   * Studied the driven-dissipative Bose-Hubbard model with one-photon and two-photon loss, and found its phase diagram.
   * Studied the working mechanism of critical Schr¨odinger cat qubit
