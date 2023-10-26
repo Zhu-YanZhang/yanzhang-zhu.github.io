@@ -56,12 +56,18 @@ $$f(\sigma_m,\sigma,n,L) = f_0[1-\exp(-k\frac{L}{\sigma_m})]\exp(-C_1\frac{\sigm
 where $f_0$, $C_0$, $C_1$, $C_2$, $k$ are fitting parameters, $\sigma$ is the size of gas particles, $\sigma_m$ is the size of membrane particles, $n$ is the size of pores (number of membrane particles removed along pore diameter), and $L$ is the thickness of the membrane.
 
 <div align="center">
-<img src="/images/back_fraction_1.png" width="300px" />
+<img src="/images/back_fraction_1.png" width="500px" />
 
 Figure 2. Back fraction function
 </div>
 
 With the back reflection fraction $f$, we can calculate the diffusivity considering the roughness of membrane $D = D_s (1 − f)$, where $D_s$ means the diffusivity of particles crossing a perfectly smooth membrane. According to hindered diffusion law: $D_s = D_0 (1 − \sigma/d)^2$, where $d$ is pore diamter and the font factor $D_0$ can be estimated by the diffusivity of a point particle entering the circular opening. Then we can get: $D(\sigma/d, n, L) = D_0(1 − \sigma/d)^2 (1 − f)$.
+
+<div align="center">
+<img src="/images/diffusivity.png" width="500px" />
+
+Figure 3. Diffusivity function with back fraction correction
+</div>
 
 Instruction
 ======
