@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yanzhang Zhu / Homepage"
 title_separator          : "-"
-name                     : &name "Yanzhang Zhu"
+name                     : &name "Yanzhang Zhu (朱彦璋)"
 description              : &description "personal description"
 url                      : https://yanzhang-zhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
