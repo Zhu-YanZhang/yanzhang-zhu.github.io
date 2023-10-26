@@ -11,15 +11,11 @@ redirect_from:
 Education
 ======
 
+<div><span style="float:right"><em>Aug 2020 - Present</em></span><b>Duke Kunshan University/Duke University</b> Dual Degree Undergraduate </div>
 
-<div><b>Duke Kunshan University/Duke University</b> Dual Degree Undergraduate</div>
-<div style="position: absolute; right: 100"><em>Aug 2020 - Present</em></div> 
+<div><span style="float:right"><em>Kunshan, China</em></span>B.E. in Material Science (by DKU)</div>
 
-<div>B.E. in Material Science (by DKU)</div>
-<div style="position: absolute; right: 100"><em>Kunshan, China</em></div> 
-
-<div>B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)</div>
-<div style="position: absolute; right: 100"><em>Durham, USA</em></div>
+<div><span style="float:right"><em>Durham, USA</em></span>B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)</div>
 
 Research experience
 ======
