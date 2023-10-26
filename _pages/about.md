@@ -56,7 +56,7 @@ $$f(\sigma_m,\sigma,n,L) = f_0[1-\exp(-k\frac{L}{\sigma_m})]\exp(-C_1\frac{\sigm
 where $f_0$, $C_0$, $C_1$, $C_2$, $k$ are fitting parameters, $\sigma$ is the size of gas particles, $\sigma_m$ is the size of membrane particles, $n$ is the size of pores (number of membrane particles removed along pore diameter), and $L$ is the thickness of the membrane.
 
 <div align="center">
-<img src="/images/back_fraction.png" width="500px" />
+<img src="/images/back_fraction.png" width="400px" />
 
 Figure 2. Back fraction function
 </div>
