@@ -19,12 +19,13 @@ Education
 
 Research experience
 ======
-* **Quantum Science Group, Duke Kunshan University**
 
-  *Advisor: Dr. Myung-Joong Hwang*
-  * Studied the driven-dissipative Bose-Hubbard model with one-photon and two-photon loss, and found its phase diagram.
-  * Studied the working mechanism of critical Schr¨odinger cat qubit
-  * Exploring the possibility of constructing decoherence-free subspace with open Rabi model with twophoton loss.
+<div><span style="float:right"><em>Oct 2022 - Present</em></span><b>Quantum Science Group, Duke Kunshan University</b></div>
+<div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Dr. Myung-Joong Hwang</em></div>
+  
+* Studied the driven-dissipative Bose-Hubbard model with one-photon and two-photon loss, and found its phase diagram.
+* Studied the working mechanism of critical Schr¨odinger cat qubit
+* Exploring the possibility of constructing decoherence-free subspace with open Rabi model with twophoton loss.
 
 * Fall 2015: Research Assistant
   * Github University
