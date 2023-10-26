@@ -36,28 +36,30 @@ Research Experience
 * Studied the relationship between gas separation rate and sizes of molecular sieve molecules and pores, with dual control volume grand canonical molecular dynamics (DCV-GCMD) method.
 * Discovered a back reflection function considering the effects of surface roughness on diffusivity of monotonic and diatomic gas particles, and extend the hindered diffusion law to a wider range of application.
 
-Skills
+Presentations
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+<div><span style="float:right"><em>Nov 4-6, 2022</em></span><b>1st Chinese Chemical Society Molecular Sieve Conference of Youth</b></div>
+<div><span style="float:right"><em>Hangzhou, China</em></span><em>Advisor: Dr. Kai Zhang</em></div>
+* Effects of surface roughness and molecular shapes on gas transport through size-sieving membranes
+
+<div><span style="float:right"><em>Nov 3, 2023</em></span><b>DKU Summer Research Poster Session</b></div>
+<div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Dr. Myung-Joong Hwang</em></div>
+* Phase Diagram of Driven-Dissipative Bose-Hubbard Model
+
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<div><span style="float:right"><em>2022, 2023</em></span>Summer Research Scholar Fellowship</div>
+<div><span style="float:right"><em>2021, 2022</em></span>Dean's List</div>
+<div><span style="float:right"><em>2020</em></span>Kunshan Government Scholarship</div>
+
+
+Community Involvement
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<div><span style="float:right"><em>Aug 2022-Present</em></span>DKU Kendo Club, <em>President</em></div>
+<div><span style="float:right"><em>Nov 2020-Jun 2022</em></span>DKU Gaming Club, <em>Organizer</em></div>
   
-Teaching
+Coursework & Skills
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
