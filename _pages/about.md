@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a a dual-degree senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn/) and [Duke University](https://duke.edu/). I major in material science with physics track. My research interest lies in **quantum computing** and **quantum information**. I have no publications yet, but I have done some solid research works. 
+I am a dual-degree senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn/) and [Duke University](https://duke.edu/). I major in material science with physics track. My research interest lies in **quantum computing** and **quantum information**. I have no publications yet, but I have done some solid research works. 
 
 Previous Works
 ======
