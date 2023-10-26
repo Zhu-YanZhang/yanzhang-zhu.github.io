@@ -12,13 +12,10 @@ Education
 ======
 
 <div><span style="float:right"><em>Aug 2020 - Present</em></span><b>Duke Kunshan University/Duke University</b> Dual Degree Undergraduate </div>
-
 <div><span style="float:right"><em>Kunshan, China</em></span>B.E. in Material Science (by DKU)</div>
-
 <div><span style="float:right"><em>Durham, USA</em></span>B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)</div>
-
 <div>GPA: 3.725/4.0</div>
-
+<p></p>
 
 Research Experience
 ======
@@ -52,13 +49,14 @@ Awards
 <div><span style="float:right"><em>2022, 2023</em></span>Summer Research Scholar Fellowship</div>
 <div><span style="float:right"><em>2021, 2022</em></span>Dean's List</div>
 <div><span style="float:right"><em>2020</em></span>Kunshan Government Scholarship</div>
-
+<p></p>
 
 Community Involvement
 ======
 <div><span style="float:right"><em>Aug 2022-Present</em></span>DKU Kendo Club, <em>President</em></div>
 <div><span style="float:right"><em>Nov 2020-Jun 2022</em></span>DKU Gaming Club, <em>Organizer</em></div>
-  
+<p></p>
+
 Coursework & Skills
 ======
   <ul>{% for post in site.teaching %}
