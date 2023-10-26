@@ -17,7 +17,7 @@ Education
 
 <div><span style="float:right"><em>Durham, USA</em></span>B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)</div>
 
-GPA: 3.725/4.0
+<div>GPA: 3.725/4.0</div>
 
 
 Research Experience
