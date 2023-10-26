@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Duke Kunshan University/Duke University** Dual Degree Undergraduate <p align="right"><em>Aug 2020 - Present</em></p>
 
 Work experience
 ======
