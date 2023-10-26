@@ -17,21 +17,25 @@ Education
 
 <div><span style="float:right"><em>Durham, USA</em></span>B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)</div>
 
-Research experience
+GPA: 3.725/4.0
+
+
+Research Experience
 ======
 
 <div><span style="float:right"><em>Oct 2022 - Present</em></span><b>Quantum Science Group, Duke Kunshan University</b></div>
 <div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Dr. Myung-Joong Hwang</em></div>
   
 * Studied the driven-dissipative Bose-Hubbard model with one-photon and two-photon loss, and found its phase diagram.
-* Studied the working mechanism of critical Schr¨odinger cat qubit
-* Exploring the possibility of constructing decoherence-free subspace with open Rabi model with twophoton loss.
+* Studied the working mechanism of critical Schrodinger cat qubit
+* Exploring the possibility of constructing decoherence-free subspace with open Rabi model with two-photon loss.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+<div><span style="float:right"><em>Jun 2021-Aug 2022</em></span><b>Division of Natural and Applied Sciences, Duke Kunshan University</b></div>
+<div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Dr. Kai Zhang</em></div>
+
+* Studied the relationship between gas separation rate and sizes of molecular sieve molecules and pores, with dual control volume grand canonical molecular dynamics (DCV-GCMD) method.
+* Discovered a back reflection function considering the effects of surface roughness on diffusivity of monotonic and diatomic gas particles, and extend the hindered diffusion law to a wider range of application.
+
 Skills
 ======
 * Skill 1
