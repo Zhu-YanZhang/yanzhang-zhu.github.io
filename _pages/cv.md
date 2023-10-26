@@ -12,7 +12,7 @@ Education
 ======
 
 
-<div>**Duke Kunshan University/Duke University** Dual Degree Undergraduate</div>
+<div><b>Duke Kunshan University/Duke University</b> Dual Degree Undergraduate</div>
 <div style="position: absolute; right: 100"><em>Aug 2020 - Present</em></div> 
 
 <div>B.E. in Material Science (by DKU)</div>
