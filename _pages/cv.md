@@ -7,11 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
-**Duke Kunshan University/Duke University** Dual Degree Undergraduate <p align="right"><em>Aug 2020 - Present</em></p>
+
+
+<div style="position: absolute; left: 0"> Duke Kunshan University/Duke University Dual Degree Undergraduate </div> 
+<div style="position: absolute; right: 0"><em>Aug 2020 - Present</em></div> 
+
+B.E. in Material Science (by DKU) <span><em>Kunshan, China</em></span>
+
+B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke) <span><em>Durham, USA</em></span>
 
 Work experience
 ======
