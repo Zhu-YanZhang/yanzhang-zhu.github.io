@@ -31,6 +31,7 @@ By mean-field analysis and stability analysis, we find two steady state solution
 <div align="center">
 <img src="/images/Phase.png" width="300px" />
 
+  
 Figure 1. Phase diagram of model
 </div>
 
