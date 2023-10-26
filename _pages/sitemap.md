@@ -10,6 +10,6 @@ author_profile: true
 A list of all the posts and pages found on the site.
 
 <h2>Pages</h2>
-{% for post in (/pages/about.md, /pages/cv.md) %}
+{% for post in {/pages/about.html, /pages/cv.html} %}
   {% include archive-single.html %}
 {% endfor %}
