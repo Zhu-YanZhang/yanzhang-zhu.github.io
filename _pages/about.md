@@ -30,8 +30,7 @@ By mean-field analysis and stability analysis, we find two steady state solution
 
 <div align="center">
 <img src="/images/Phase.png" width="300px" />
-
-  
+<br>
 Figure 1. Phase diagram of model
 </div>
 
@@ -52,7 +51,7 @@ We study purely repulsive Lennard-Jones particles flowing through pores of membr
 
 <div align="center">
 <img src="/images/model_1.png" width="600px" />
-
+<br>
 Figure 2. System set up
 </div>
 
@@ -64,7 +63,7 @@ where $f_0$, $C_0$, $C_1$, $C_2$, $k$ are fitting parameters, $\sigma$ is the si
 
 <div align="center">
 <img src="/images/back_fraction_1.png" width="500px" />
-
+<br>
 Figure 3. Back fraction function
 </div>
 
@@ -72,7 +71,7 @@ With the back reflection fraction $f$, we can calculate the diffusivity consider
 
 <div align="center">
 <img src="/images/diffusivity.png" width="500px" />
-
+<br>
 Figure 4. Diffusivity function with back fraction correction
 </div>
 
