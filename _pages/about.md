@@ -24,7 +24,9 @@ $$\dot{\rho} = \mathcal{L} [\rho] = -i[H,\rho] + \kappa_1 \mathcal{D}[a] + \kapp
 
 $$\mathcal{D}[A] = 2A\rho A^+ - A^+ A \rho - \rho A^+ A$$
 
-where $\omega$ is the detuning, $U$ is the Kerr non-linearity, $\lambda$ is the two photon drive, $\kappa_{1,2}$ are the one-photon and two-photon loss. By mean-field analysis and stability analysis, we find two steady state solutions $\alpha_{0,1}$ of the model. The figure plots the region where $|\alpha_0|^2$ is stable (red), $|\alpha_1|^2$ is stable (yellow), and both of them are stable (orange).
+where $\omega$ is the detuning, $U$ is the Kerr non-linearity, $\lambda$ is the two photon drive, $\kappa_{1,2}$ are the one-photon and two-photon loss.
+
+By mean-field analysis and stability analysis, we find two steady state solutions $\alpha_{0,1}$ of the model. The figure plots the region where $\|\alpha_0\|^2$ is stable (red), $\|\alpha_1\|^2$ is stable (yellow), and both of them are stable (orange).
 
 Some interesting things we find about this model:
 * The steady states we get are:
