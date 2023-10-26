@@ -21,12 +21,13 @@ B.E. in Material Science (by DKU)
 B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)
 <div style="position: absolute; right: 100"><em>Durham, USA</em></div>
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Quantum Science Group, Duke Kunshan University
+  *Advisor: Dr. Myung-Joong Hwang*
+  * Studied the driven-dissipative Bose-Hubbard model with one-photon and two-photon loss, and found its phase diagram.
+  * Studied the working mechanism of critical Schr¨odinger cat qubit
+  * Exploring the possibility of constructing decoherence-free subspace with open Rabi model with twophoton loss.
 
 * Fall 2015: Research Assistant
   * Github University
