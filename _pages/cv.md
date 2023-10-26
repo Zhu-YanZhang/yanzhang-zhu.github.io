@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+email: zhuyanzhang190@gmail.com
+phone: +86 15358087911
 
 Education
 ======
