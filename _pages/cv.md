@@ -62,10 +62,6 @@ Community Involvement
 
 Coursework & Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Physics**: Quantum Mechanics, Thermal Physics, Electricity and Magnetism, Optics and Modern Physics.
+* **Math**: ODE and PDE, Numerical Analysis, Probability and Statistics, Linear Algebra.
+* **Skills**: Lammps, Python, Julia, LATEX, Mathematica, Matlab, Markdown.
