@@ -52,6 +52,7 @@ Awards
 <div><span style="float:right"><em>2022, 2023</em></span>Summer Research Scholar Fellowship</div>
 <div><span style="float:right"><em>2021, 2022</em></span>Dean's List</div>
 <div><span style="float:right"><em>2020</em></span>Kunshan Government Scholarship</div>
+<div><span style="float:right"><em>2019</em></span>National Physics Competition first prize</div>
 <p></p>
 
 Community Involvement
