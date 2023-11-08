@@ -17,7 +17,7 @@ Education
 <div><span style="float:right"><em>Aug 2020 - Present</em></span><b>Duke Kunshan University/Duke University</b> Dual Degree Undergraduate </div>
 <div><span style="float:right"><em>Kunshan, China</em></span>B.E. in Material Science (by DKU)</div>
 <div><span style="float:right"><em>Durham, USA</em></span>B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)</div>
-<div>GPA: 3.725/4.0</div>
+<div>GPA: 3.715/4.0</div>
 <p></p>
 
 Research Experience
@@ -36,16 +36,22 @@ Research Experience
 * Studied the relationship between gas separation rate and sizes of molecular sieve molecules and pores, with dual control volume grand canonical molecular dynamics (DCV-GCMD) method.
 * Discovered a back reflection function considering the effects of surface roughness on diffusivity of monotonic and diatomic gas particles, and extend the hindered diffusion law to a wider range of application.
 
-Presentations
+Conferences & Presentations
 ======
 
 <div><span style="float:right"><em>Nov 4-6, 2022</em></span><b>1st Chinese Chemical Society Molecular Sieve Conference of Youth</b></div>
 <div><span style="float:right"><em>Hangzhou, China</em></span><em>Advisor: Dr. Kai Zhang</em></div>
-* Effects of surface roughness and molecular shapes on gas transport through size-sieving membranes
+* Presentation topic: "Effects of surface roughness and molecular shapes on gas transport through size-sieving membranes"
 
 <div><span style="float:right"><em>Nov 3, 2023</em></span><b>DKU Summer Research Poster Session</b></div>
 <div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Dr. Myung-Joong Hwang</em></div>
-* Phase Diagram of Driven-Dissipative Bose-Hubbard Model
+* Presentation topic: "Phase Diagram of Driven-Dissipative Bose-Hubbard Model"
+
+Teaching Experience
+=======
+<div><span style="float:right"><em>July, 2023</em></span><b>Quantum Science Group Workshop, Duke Kunshan University</b></div>
+<div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Dr. Myung-Joong Hwang</em></div>
+* Prepared lecture notes and gave lectures about solving quantum rabi model with mean-field analysis.
 
 Awards
 ======
@@ -57,8 +63,12 @@ Awards
 
 Community Involvement
 ======
-<div><span style="float:right"><em>Aug 2022-Present</em></span>DKU Kendo Club, <em>President</em></div>
-<div><span style="float:right"><em>Nov 2020-Jun 2022</em></span>DKU Gaming Club, <em>Organizer</em></div>
+<div><span style="float:right"><em>Aug 2022-Present</em></span><b>DKU Kendo Club, <em>President</em></b></div>
+* Managed the operation of the club and led the weekly practice session.
+* Organized and held club activities including Martial Arts Festival, Kendo competition.
+* Greatly developed the club, from a club nearly dismissed to one of the most important sport club.
+<div><span style="float:right"><em>Aug 2022-Jun 2023</em></span><b>DKU Gaming Club, <em>Organizer</em></b></div>
+* Organized and held club activities including DKU cups, DKU LOL tournament.
 <p></p>
 
 Coursework & Skills
