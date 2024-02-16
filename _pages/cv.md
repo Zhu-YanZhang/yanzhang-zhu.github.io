@@ -80,4 +80,4 @@ Coursework & Skills
 ======
 * **Physics**: Quantum Mechanics, Thermal Physics, Electricity and Magnetism, Optics and Modern Physics.
 * **Math**: ODE and PDE, Numerical Analysis, Probability and Statistics, Linear Algebra.
-* **Skills**: Lammps, Python, Julia, LATEX, Mathematica, Matlab, Markdown.
+* **Skills**: Lammps, Python, Julia, LATEX, QuTip, Mathematica, Matlab, Markdown.
