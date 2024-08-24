@@ -14,27 +14,45 @@ phone: +86 15358087911
 Education
 ======
 
-<div><span style="float:right"><em>Aug 2020 - Present</em></span><b>Duke Kunshan University/Duke University</b> Dual Degree Undergraduate </div>
+<div><span style="float:right"><em>Aug 2020 - May 2024</em></span><b>Duke Kunshan University/Duke University</b> Dual Degree Undergraduate </div>
 <div><span style="float:right"><em>Kunshan, China</em></span>B.E. in Material Science (by DKU)</div>
 <div><span style="float:right"><em>Durham, USA</em></span>B.S. in Interdisciplinary Studies (Material Science; Physics, by Duke)</div>
 <div>GPA: 3.715/4.0</div>
 <p></p>
 
+<div><span style="float:right"><em>Aug 2024 - Present</em></span><b>Westlake University</b></div>
+<div><span style="float:right"><em>Hangzhou, China</em></span>Ph. D. in Theoretical Physics</div>
+<p></p>
+
 Research Experience
 ======
 
-<div><span style="float:right"><em>Oct 2022 - Present</em></span><b>Quantum Science Group, Duke Kunshan University</b></div>
-<div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Dr. Myung-Joong Hwang</em></div>
+<div><span style="float:right"><em>Aug 2024 - Present</em></span><b>Zheng Yan's Group, Westlake University</b></div>
+<div><span style="float:right"><em>Hangzhou, China</em></span><em>Advisor: Prof. Zheng Yan</em></div>
+  
+* Using Quantum Monte Carlo method to study quantum many-body computing physics.
+
+<div><span style="float:right"><em>Oct 2022 - Aug 2024</em></span><b>Quantum Science Group, Duke Kunshan University</b></div>
+<div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Prof. Myung-Joong Hwang</em></div>
   
 * Studied the driven-dissipative Bose-Hubbard model with one-photon and two-photon loss, and found its phase diagram.
-* Studied the working mechanism of critical Schrodinger cat qubit
-* Exploring the possibility of constructing decoherence-free subspace with open Rabi model with two-photon loss.
+* Studied the working mechanism of critical Schrodinger cat qubit.
+* Constructed a Noiseless Subsystem with open Rabi model with two-photon loss, bringing in the property of passive error correction to cat qubits.
 
 <div><span style="float:right"><em>Jun 2021-Aug 2022</em></span><b>Division of Natural and Applied Sciences, Duke Kunshan University</b></div>
-<div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Dr. Kai Zhang</em></div>
+<div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Prof. Kai Zhang</em></div>
 
 * Studied the relationship between gas separation rate and sizes of molecular sieve molecules and pores, with dual control volume grand canonical molecular dynamics (DCV-GCMD) method.
 * Discovered a back reflection function considering the effects of surface roughness on diffusivity of monotonic and diatomic gas particles, and extend the hindered diffusion law to a wider range of application.
+
+Publication
+======
+
+[1] Passive error correction with a qubit-oscillator system in noisy environment
+
+Yanzhang Zhu, Myung-Joong Hwang
+
+arXiv: 2408.05145 [quant-ph] (2024)
 
 Conferences & Presentations
 ======
