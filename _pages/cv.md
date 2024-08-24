@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-email: zhuyanzhang190@gmail.com
+email: zhuyanzhang@westlake.edu.cn
 
 phone: +86 15358087911
 
@@ -52,7 +52,7 @@ Publication
 
 Yanzhang Zhu, Myung-Joong Hwang
 
-arXiv: 2408.05145 [quant-ph] (2024)
+[arXiv: 2408.05145](https://arxiv.org/abs/2408.05145) [quant-ph] (2024)
 
 Conferences & Presentations
 ======
