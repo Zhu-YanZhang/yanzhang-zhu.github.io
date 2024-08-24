@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a dual-degree senior undergraduate student at [Duke Kunshan University](https://www.dukekunshan.edu.cn/) and [Duke University](https://duke.edu/). I major in material science with physics track. My research interest lies in **quantum computing** and **quantum information**.
+I am a Ph. D. student at [Westlake University](https://en.westlake.edu.cn/). I major in Theoretical Physics. My research interest lies in **quantum simulation** and **quantum many-body problem**.
 
-Research Work
+Unpublished Research Work
 ======
 
 Phase Diagram of Driven-Dissipative Bose-Hubbard Model
