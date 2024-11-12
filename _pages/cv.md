@@ -84,7 +84,7 @@ Awards
 
 Community Involvement
 ======
-<div><span style="float:right"><em>Aug 2022-Present</em></span><b>DKU Kendo Club, <em>President</em></b></div>
+<div><span style="float:right"><em>Aug 2022-May 2024</em></span><b>DKU Kendo Club, <em>President</em></b></div>
 
 * Managed the operation of the club and led the weekly practice session.
 * Organized and held club activities including Martial Arts Festival, Kendo competition.
