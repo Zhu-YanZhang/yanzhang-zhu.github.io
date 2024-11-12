@@ -31,6 +31,7 @@ Research Experience
 <div><span style="float:right"><em>Hangzhou, China</em></span><em>Advisor: Prof. Zheng Yan</em></div>
   
 * Using Quantum Monte Carlo method to study quantum many-body computing physics.
+* Studying Quantum Computing problems with computer simulations.
 
 <div><span style="float:right"><em>Oct 2022 - Aug 2024</em></span><b>Quantum Science Group, Duke Kunshan University</b></div>
 <div><span style="float:right"><em>Kunshan, China</em></span><em>Advisor: Prof. Myung-Joong Hwang</em></div>
@@ -84,7 +85,7 @@ Awards
 
 Community Involvement
 ======
-<div><span style="float:right"><em>Aug 2022-Present</em></span><b>DKU Kendo Club, <em>President</em></b></div>
+<div><span style="float:right"><em>Aug 2022-May 2024</em></span><b>DKU Kendo Club, <em>President</em></b></div>
 
 * Managed the operation of the club and led the weekly practice session.
 * Organized and held club activities including Martial Arts Festival, Kendo competition.
