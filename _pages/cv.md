@@ -50,9 +50,21 @@ Publication
 
 [1] Passive error correction with a qubit-oscillator system in noisy environment
 
-Yanzhang Zhu, Myung-Joong Hwang
+<b>Yanzhang Zhu<b>, Myung-Joong Hwang
 
-[arXiv: 2408.05145](https://arxiv.org/abs/2408.05145) [quant-ph] (2024)
+[Journal of the Korean Physical Society 85 (11), 890-897](https://link.springer.com/article/10.1007/s40042-024-01216-2) (2024)
+
+[2] Bipartite entanglement and surface criticality: The extra contribution of non-ordinary edge in entanglement
+
+<b>Yanzhang Zhu<b>, Zenan Liu, Zhe Wang, Yan-Cheng Wang, Zheng Yan
+
+[arXiv:2508.07277](https://arxiv.org/abs/2508.07277) [cond-mat.str-el] (2025)
+
+[3] Mixed-State Measurement-Induced Phase Transitions in Imaginary-Time Dynamics
+
+Yi-Ming Ding, Zenan Liu, Xu Tian, Zhe Wang, <b>Yanzhang Zhu<b>, Zheng Yan
+
+[arXiv:2511.04402](https://arxiv.org/abs/2511.04402) [quant-ph] (2025)
 
 Conferences & Presentations
 ======
